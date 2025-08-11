@@ -40,7 +40,7 @@ This spelled out the hidden flag.
 
 **Here is the map showing locations as example(`0.3476 32.5825)`:**
 
-![Map Image](Image_Folder/Screenshot_2025-08-11_17_07_26(1).jpg)
+![Map Image](../Image_Folder/World_Tour.jpg)
 
 ---
 
