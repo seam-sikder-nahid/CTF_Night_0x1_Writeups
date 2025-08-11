@@ -48,12 +48,13 @@ The tool suggested it was a **Letter-to-Number Cipher**.
 6. **Decryption**  
 Using [dCode Letter Number Cipher](https://www.dcode.fr/letter-number-cipher), I decoded the string to:  
 
-   ![image2](../Image_Folder/Decimal_Challange-2.jpg)
+   ![image2](../Image_Folder/Decimal_Challenge-2.jpg)
    
 
 6. **Formatting the Flag**  
-Adjusting it to the challenge’s required format:  
+Adjusting it to the challenge’s required format :
 
+  CSCUU{CONGRATS_YOU_GOT_THE_FLAG}
 
 
 ---
@@ -66,9 +67,13 @@ A quicker approach is direct **Number Mapping** where:
 **Mapping Table:**
 
 
-00=A 01=B 02=C 03=D 04=E 05=F 06=G 07=H 08=I 09=J
-10=K 11=L 12=M 13=N 14=O 15=P 16=Q 17=R 18=S 19=T
-20=U 21=V 22=W 23=X 24=Y 25=Z
+| 00 = A | 01 = B | 02 = C | 03 = D | 04 = E | 05 = F |
+|--------|--------|--------|--------|--------|--------|
+| 06 = G | 07 = H | 08 = I | 09 = J | 10 = K | 11 = L |
+| 12 = M | 13 = N | 14 = O | 15 = P | 16 = Q | 17 = R |
+| 18 = S | 19 = T | 20 = U | 21 = V | 22 = W | 23 = X |
+| 24 = Y | 25 = Z |        |        |        |        |
+
 
 Replacing the numbers using this table gives the exact same result.
 
