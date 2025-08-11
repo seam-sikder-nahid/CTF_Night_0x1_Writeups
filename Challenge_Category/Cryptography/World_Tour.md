@@ -18,6 +18,9 @@ I read the problem and saw there was a file named `message.txt` attached. After 
 
 CSCUU{(0.3476, 32.5825)(13.7563, 100.5018)(39.9334, 32.8597)(-34.6037, -58.3816)(44.4268, 26.1025)(-35.2809, 149.1300)(50.4501, 30.5234)(27.7172, 85.3240)(28.6139, 77.2090)(21.0278, 105.8342)(30.0444, 31.2357)(-1.9706, 30.1044)(40.4168, -3.7038)(41.9028, 12.4964)(36.8065, 10.1815)(15.3694, 44.1910)}
 
+You can download the original message file here:  
+[message.txt](../External_Folder/message.txt)
+
 
 At first, it looked like a series of latitude and longitude coordinates.
 
