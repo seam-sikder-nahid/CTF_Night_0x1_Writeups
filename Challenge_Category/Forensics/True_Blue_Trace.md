@@ -33,7 +33,7 @@ It can reveal information such as camera details, timestamps, geotags, and somet
 ```bash
 exiftool blue_fixed.bmp
 ```
----
+
 The output didn’t reveal anything useful — no suspicious metadata fields were found.
 
 ---
@@ -50,7 +50,7 @@ I used the ``steghide`` tool to check for hidden files.
 ``steghide`` is a steganography tool that can hide and extract data from image and audio files without changing the visible properties of the file.
 It supports common formats like BMP and JPEG.
 
-Command used:
+**Command used:**
 ```
 steghide extract -sf blue_fixed.bmp
 ```
