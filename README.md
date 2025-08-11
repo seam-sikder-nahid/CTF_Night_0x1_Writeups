@@ -18,35 +18,36 @@ The primary goal of this repository is to serve as a **learning resource** for b
 
 ## Repository Structure
 ```CTF-Night-0x1-Writeups
-├── README.md
-└── Challenge_Category
-    ├── Basics_Questions
-    │   ├── 01_Linux_0x1.md
-    │   ├── 02_Linux_0x2.md
-    │   ├── 03_Linux_0x3.md
-    │   ├── 04_Linux_0x4.md
-    │   └── 05_Linux_0x5.md
-    ├── OSINT
-    │   ├── 01_Uncover_the_Spot.md
-    │   └── 02_Jokers_Digital_Shadow.md
-    ├── Forensics
-    │   └── 01_True_Blue_Trace.md
-    ├── Cryptography
-    │   ├── 01_Rails_of_Secrets.md
-    │   ├── 02_Batman_Protocol.md
-    │   ├── 03_Numbers_Game.md
-    │   ├── 04_Lost_in_Rotation.md
-    │   ├── 05_Duckpond_Cipher.md
-    │   ├── 06_Pixel_Perfect_Lie.md
-    │   ├── 07_World_Tour.md
-    │   ├── 08_The_Wizards_Shift.md
-    │   ├── 09_Cipher_Cascade.md
-    ├── General_Skill
-    │   └── 01_Secret_Game.md
-    ├── Linux
-    │   ├── 01_Permission_Detective.md
-    │   └── 02_Hide_and_Seek.md
-    ├── Web
-    │   └── 01_Developers_Mistake.md
-    └── Network
-        └── 01_Port_80.md
+├── Challenge_Category
+|   ├── Basics_Questions
+|   │   ├── Linux_0x1.md
+|   │   ├── Linux_0x2.md
+|   │   ├── Linux_0x3.md
+|   │   ├── Linux_0x4.md
+|   │   └── Linux_0x5.md
+|   ├── OSINT
+|   │   ├── Uncover_the_Spot.md
+|   │   └── Jokers_Digital_Shadow.md
+|   ├── Forensics
+|   │   └── True_Blue_Trace.md
+|   ├── Cryptography
+|   │   ├── Rails_of_Secrets.md
+|   │   ├── Batman_Protocol.md
+|   │   ├── Numbers_Game.md
+|   │   ├── Lost_in_Rotation.md
+|   │   ├── Duckpond_Cipher.md
+|   │   ├── Pixel_Perfect_Lie.md
+|   │   ├── World_Tour.md
+|   │   ├── The_Wizards_Shift.md
+|   │   ├── Cipher_Cascade.md
+|   ├── General_Skill
+|   │   └── Secret_Game.md
+|   ├── Linux
+|   │   ├── Permission_Detective.md
+|   │   └── Hide_and_Seek.md
+|   ├── Web
+|   │   └── Developers_Mistake.md
+|   └── Network
+|       └── Port_80.md
+|
+└── README.md
