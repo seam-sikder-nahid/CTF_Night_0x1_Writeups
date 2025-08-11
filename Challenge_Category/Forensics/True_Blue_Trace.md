@@ -9,7 +9,7 @@
 We are given a file named `blue_fixed.bmp` with the hint *"Blue, Blue, Blue"*.  
 The example flag format is `cscuu{xyz}`.
  
- **File:** ![file](../External_Folder/blue_fixed.bmp)
+ **File:** [blue_fixed.bmp](../External_Folder/blue_fixed.bmp)
  
 ---
 
