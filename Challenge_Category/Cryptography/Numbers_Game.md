@@ -8,7 +8,7 @@
 What do the numbers represent?
 flag_format: "CSCUU{}"
 **Attached File:**  
-[Download GIF](decimal_challange.gif)
+[Download GIF](../External_Folder/decimal_challange.gif)
 
 --- 
 
@@ -16,7 +16,7 @@ flag_format: "CSCUU{}"
 I read the challenge and saw an attached file named `decimal_challange.gif`.  
 After downloading and opening it, I noticed that the GIF displayed some numbers in sequence.
 
-
+   ![image](../Image_Folder/Decimal_Challange-gif.jpg)
 
 ---
 
@@ -42,10 +42,14 @@ After downloading and opening it, I noticed that the GIF displayed some numbers 
 I used [dCode Cipher Identifier](https://www.dcode.fr/cipher-identifier) to detect the encryption method.  
 The tool suggested it was a **Letter-to-Number Cipher**.
 
-5. **Decryption**  
+   ![image1](../Image_Folder/Decimal_Challange-1.jpg)
+   
+
+6. **Decryption**  
 Using [dCode Letter Number Cipher](https://www.dcode.fr/letter-number-cipher), I decoded the string to:  
 
-
+   ![image2](../Image_Folder/Decimal_Challange-2.jpg)
+   
 
 6. **Formatting the Flag**  
 Adjusting it to the challenge’s required format:  
