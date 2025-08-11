@@ -1,6 +1,6 @@
 # World Tour
 
-**Category:** OSINT
+**Category:** Cryptography 
 
 ---
 
@@ -35,7 +35,13 @@ Then, I took the first letter of each country's name in order and arranged them.
 
 This spelled out the hidden flag.
 
+**Here is the map showing locations as example(`0.3476 32.5825)`:**
 
+![Map Image](Image_Folder/Screenshot_2025-08-11_17_07_26(1).jpg)
+
+---
+
+**The full list of coordinates along with their city and country names.**
 
 | Latitude  | Longitude  | Location (City, Country)         |
 |-----------|------------|---------------------------------|
@@ -71,13 +77,4 @@ By decoding all the locations and extracting the initials, I was able to find th
 **Flag :**  
 `CSCUU{UTTARAUNIVERSITY}`
 
-# Cryptography Challenge Writeup
-
-...
-
-Here is the map showing important locations:
-
-![Map Image](Image_folder/Screenshot_2025-08-11_17_07_26.jpg)
-
----
 
