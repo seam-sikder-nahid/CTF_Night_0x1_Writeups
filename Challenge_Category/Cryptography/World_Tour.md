@@ -71,5 +71,13 @@ By decoding all the locations and extracting the initials, I was able to find th
 **Flag :**  
 `CSCUU{UTTARAUNIVERSITY}`
 
+# Cryptography Challenge Writeup
+
+...
+
+Here is the map showing important locations:
+
+![Map Image](Image_folder/Screenshot_2025-08-11_17_07_26.jpg)
+
 ---
 
