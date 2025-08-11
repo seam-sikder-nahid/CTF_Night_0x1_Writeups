@@ -2,7 +2,7 @@
 
 **Category:** Basics Questions 
 
-**Author :** Pran0x
+**Author:** Pran0x
 
 ---
 
@@ -14,7 +14,7 @@ B) Makes the script executable
 C) Compresses the script  
 D) Moves the script to /bin  
 
-**Enter the Ans only (i.e. A):** B
+**Enter the Ans only (i.e. A):** 
 
 ---
 
