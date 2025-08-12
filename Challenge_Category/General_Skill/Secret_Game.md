@@ -1,11 +1,12 @@
 # Secret Game 
-**Category:** General Skill 
+>**Category:** General Skill
+
+**Flag Format:** ``CSCUU{}``
 
 ---
 ## Problem:
 The team was working perfectly—until a mysterious commit ruined everything. Who pushed the change that caused the trouble? 
 
-**Flag Format:** CSCUU{}
 
 You can Download the file from here:  [ctf_project.zip](../External_Folder/ctf_project.zip)
 
@@ -73,5 +74,5 @@ Boom — there it was! The flag had been sitting in the commit history all along
 
 ---
 
-**Flag:** ``CSCUU{@C0NGR4TS_Y0U_G0T_TH3_F14G}``
+### **Flag:** ``CSCUU{@C0NGR4TS_Y0U_G0T_TH3_F14G}``
 
