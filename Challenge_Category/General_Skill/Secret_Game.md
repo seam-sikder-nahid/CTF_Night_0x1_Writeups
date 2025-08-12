@@ -10,7 +10,7 @@ The team was working perfectly—until a mysterious commit ruined everything. Wh
 You can Download the file from here:  [ctf_project.zip](../External_Folder/ctf_project.zip)
 
 ---
-## Approach
+## Approach:
 
 I opened the challenge description and noticed a file attached: `ctf_project.zip`. I downloaded the ZIP and immediately unzipped it, expecting to find the usual project files. After extraction I entered the new folder, but only one file — `message.py` — was visible. That felt odd: why would a real project only show one Python file?
 
