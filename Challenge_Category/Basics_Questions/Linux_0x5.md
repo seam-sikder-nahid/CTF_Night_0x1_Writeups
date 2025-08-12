@@ -20,6 +20,8 @@ D) Hidden directories
 
 ### Answer: C
 
+---
+
 ### Explanation:
 
 The command `find / -perm -4000 2>/dev/null` searches the entire filesystem (`/`) for files with the **SUID (Set User ID)** permission bit set.
