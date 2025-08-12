@@ -1,14 +1,19 @@
 # Numbers Game
 
-**Category:** Cryptography
+>**Category:** Cryptography
+
+
+**Flag_format:** "CSCUU{}"
+
 
 ---
 
 ### Problem Description:
 What do the numbers represent?
-flag_format: "CSCUU{}"
-**Attached File:**  
-[Download GIF](../External_Folder/decimal_challange.gif)
+
+
+
+**Attached File:**  [Download GIF](../External_Folder/decimal_challange.gif)
 
 --- 
 
@@ -54,7 +59,7 @@ Using [dCode Letter Number Cipher](https://www.dcode.fr/letter-number-cipher), I
 6. **Formatting the Flag**  
 Adjusting it to the challenge’s required format :
 
-  CSCUU{CONGRATS_YOU_GOT_THE_FLAG}
+       CSCUU{CONGRATS_YOU_GOT_THE_FLAG}
 
 
 ---
