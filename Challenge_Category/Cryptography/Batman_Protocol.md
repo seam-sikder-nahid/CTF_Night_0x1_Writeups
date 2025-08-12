@@ -1,7 +1,8 @@
 # Batman Protocol 
 
-**Category:** Cryptography  
->Flag Format: `cscuu{}`
+>**Category:** Cryptography
+
+**Flag Format:** `cscuu{}`
 
 ---
 
@@ -17,7 +18,7 @@ Click Here to Download the png file: [cipher.png](../Image_Folder/cipher.png)
 
 ---
 
-### Approach
+### Approach:
 
 I opened the challenge and found an image file named `cipher.png`.  
 After downloading and viewing the image, it looked like a grid of strange symbols — many glyphs repeated across the picture. The puzzle text referenced **Batman** and the filename was `cipher.png`, so I suspected the cipher name or clue might be related to Batman.
@@ -37,9 +38,9 @@ It was originally designed for use in creative puzzles and thematic games, known
 
 ---
 
- **Symbol mapping & decryption**  
+ ### Symbol mapping & decryption:
  
-I opened `cipher.png` and compared each glyph to the glyphs shown on the [RataAlada page.](https://www.dcode.fr/rata-alada-cipher) I entered the symbols into the dCode RataAlada interface in the same order they appeared in the image.After filling the mapping, I clicked **Decrypt**.
+I opened `cipher.png` and compared each glyph to the glyphs shown on the [RataAlada Dcoder](https://www.dcode.fr/rata-alada-cipher) I entered the symbols into the dCode RataAlada interface in the same order they appeared in the image.After filling the mapping, I clicked **Decrypt**.
 
 ![cipher_2](../Image_Folder/cipher_2.jpg)
 
