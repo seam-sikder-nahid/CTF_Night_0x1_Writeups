@@ -17,15 +17,14 @@ What do the numbers represent?
 
 --- 
 
-### Solution:
+### Approach:
+
 I read the challenge and saw an attached file named `decimal_challange.gif`.  
 After downloading and opening it, I noticed that the GIF displayed some numbers in sequence.
 
    ![image](../Image_Folder/Decimal_Challange-gif.jpg)
 
----
 
-### Approach:
 
 1. **Metadata Analysis**  
    First, I used **ExifTool** to check if the GIF contained any hidden metadata.  
@@ -82,14 +81,10 @@ A quicker approach is direct **Number Mapping** where:
 
 Replacing the numbers using this table gives the exact same result.
 
----
-
-### Conclusion:
 
 The challenge could be solved either by identifying the cipher via online tools or by applying direct number mapping.  
 Both methods lead to the same final flag.
 
 ---
 
-**Flag:**  
-`CSCUU{CONGRATS_YOU_GOT_THE_FLAG}`
+### **Flag:** ```CSCUU{CONGRATS_YOU_GOT_THE_FLAG}```
