@@ -14,7 +14,7 @@ This is a picture of one of the most popular places in Uttara. Your task is to f
 
 An image file `OSINT_challange.png` was provided with the challenge.
 
-Download : [OSNIT_challange.png](../Image_Folder/OSNIT_challange.png)
+Download : [OSNIT_challange.png](../Image_Folder/OSINT_challange.png)
 
 ---
 
