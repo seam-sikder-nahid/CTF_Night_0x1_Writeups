@@ -36,7 +36,7 @@ My first thought: C1B3R_P1R4T3 looked like a CTF flag, so I tried submitting it.
 ---
 ### Step 2:
 
-Command:
+**Command:**
 ```
 git log --stat
 ```
@@ -54,9 +54,7 @@ Since the challenge asked "Who pushed the change that caused the trouble?", I th
 
 ### Step 3:
 
-
-
-Command:
+**Command:**
 ```
 git log -p message.py
 ```
