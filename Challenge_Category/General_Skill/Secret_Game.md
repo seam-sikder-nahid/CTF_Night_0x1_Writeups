@@ -29,7 +29,7 @@ git log --oneline
 
 **Result:**
 
-![Image1](Secret_Game_1.jpg)
+![Image1](../Image_Folder/Secret_Game_1.jpg)
 
 My first thought: C1B3R_P1R4T3 looked like a CTF flag, so I tried submitting it. But it was rejected — not the flag.
 
@@ -44,7 +44,7 @@ git log --stat
 
 **Result:**
 
-![Image2](Secret_Game_2.jpg)
+![Image2](../Image_Folder/Secret_Game_2.jpg)
 
 
 Saw that message.py was modified in both commits. The author name appeared as Abdullah Bin Shawon.
@@ -64,7 +64,7 @@ git log -p message.py
 
 **Result:**
 
-![Image3](Secret_Game_3.jpg)
+![Image3](../Image_Folder/Secret_Game_3.jpg)
 
 The output revealed that an earlier commit had the flag in a comment, but it was removed in the latest commit:
 
