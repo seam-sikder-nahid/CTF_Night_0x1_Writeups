@@ -1,13 +1,17 @@
 # True Blue Trace
 
-**Category:** Forensics  
+>**Category:** Forensics  
+
+**Flag example:** ``cscuu{xyz}``
 
 ---
 
-## Problem Description
+## Problem 
 
-We are given a file named `blue_fixed.bmp` with the hint *"Blue, Blue, Blue"*.  
-The example flag format is `cscuu{xyz}`.
+Blue, Blue, Blue
+
+
+
  
  **File:** [blue_fixed.bmp](../External_Folder/blue_fixed.bmp)
  
@@ -69,11 +73,10 @@ Boom! — The extraction worked, and I got a ``secret.txt`` text file containing
  *`binwalk`*— often used for extracting embedded files from binary data.
 
 ---
-## Conclusion
 
 By checking the metadata first and then trying steganography extraction with steghide, I was able to retrieve the hidden message.
 
 ---
 
-**Flag:** ``cscuu{this_is_called_image_steganography}``
+### **Flag:** ``cscuu{this_is_called_image_steganography}``
 
