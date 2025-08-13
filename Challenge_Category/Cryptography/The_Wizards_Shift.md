@@ -36,6 +36,8 @@ With that confirmation, I headed straight to a Caesar cipher decoder. I pasted t
 
 And there it was — the correct shift revealed the hidden flag in plain sight.
 
+**Using tools:** [Caesar Cipher Decoder](https://www.dcode.fr/caesar-cipher)
+
 ![Image](../Image_Folder/The_Wizards_Shift.jpg)
 
 
