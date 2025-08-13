@@ -41,6 +41,7 @@ Here, I suspected the flag might be hidden. I attempted to access various pages 
 
 Finally, I tried **flag.html** in the URL. This page loaded, displaying a funny image and the text **"HACKER"**. 
 
+    https://cybersecurity.club.uttara.ac.bd/flag.html
 
  ![DM3](../Image_Folder/DM3.jpg)
 
@@ -52,6 +53,8 @@ Inspecting the page source, I noticed that the image had an alt attribute pointi
  
 
 Following this clue, I replaced the parameter in the URL with flag.txt and accessed the page. To my satisfaction, the flag was revealed.
+
+    https://cybersecurity.club.uttara.ac.bd/flag.txt
 
  ![DM5](../Image_Folder/DM5.jpg)
 
