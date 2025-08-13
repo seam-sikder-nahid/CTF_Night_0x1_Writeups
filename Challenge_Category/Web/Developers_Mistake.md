@@ -26,7 +26,7 @@ Remembering the description’s hint about the resource locator, I navigated to 
 
     https://cybersecurity.club.uttara.ac.bd/home.html
 
-  ![DM1](../Image_Folder/DM1)
+  ![DM1](../Image_Folder/DM1.jpg)
 
 
 I then explored the CTF section by clicking the relevant option, which led to:
@@ -34,7 +34,7 @@ I then explored the CTF section by clicking the relevant option, which led to:
     https://cybersecurity.club.uttara.ac.bd/ctf.html
 
 
- ![DM2](../Image_Folder/DM2)
+ ![DM2](../Image_Folder/DM2.jpg)
  
 
 Here, I suspected the flag might be hidden. I attempted to access various pages by changing the URL parameter: **welcome.html**, **guest.html** — but these returned nothing useful.
@@ -42,18 +42,18 @@ Here, I suspected the flag might be hidden. I attempted to access various pages 
 Finally, I tried **flag.html** in the URL. This page loaded, displaying a funny image and the text **"HACKER"**. 
 
 
- ![DM3](../Image_Folder/DM3)
+ ![DM3](../Image_Folder/DM3.jpg)
 
 
 Inspecting the page source, I noticed that the image had an alt attribute pointing to ``flag.txt``.
 
 
- ![DM4](../Image_Folder/DM4)
+ ![DM4](../Image_Folder/DM4.jpg)
  
 
 Following this clue, I replaced the parameter in the URL with flag.txt and accessed the page. To my satisfaction, the flag was revealed.
 
- ![DM5](../Image_Folder/DM5)
+ ![DM5](../Image_Folder/DM5.jpg)
 
  ---
 
