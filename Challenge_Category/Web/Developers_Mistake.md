@@ -24,14 +24,14 @@ I opened the website: [https://cybersecurity.club.uttara.ac.bd](https://cybersec
 
 Remembering the description’s hint about the resource locator, I navigated to the home page and observed the URL:
 
-    https://cybersecurity.club.uttara.ac.bd/home.html
+    https://cybersecurity.club.uttara.ac.bd/index.html
 
   ![DM1](../Image_Folder/DM1.jpg)
 
 
 I then explored the CTF section by clicking the relevant option, which led to:
 
-    https://cybersecurity.club.uttara.ac.bd/ctf.html
+    https://cybersecurity.club.uttara.ac.bd/CTF.html
 
 
  ![DM2](../Image_Folder/DM2.jpg)
