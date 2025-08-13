@@ -23,7 +23,7 @@ A **network_traffic.pcap** file was provided, which I downloaded and opened in *
 
 **Wireshark** is a powerful network protocol analyzer used to inspect packet-level traffic. It allows filtering by protocol, port, or IP, making it ideal for identifying suspicious or hidden communications within captured network data.
 
-![Image1](../Image_Folder/pcap1.jpg)
+![Image1](../Image_Folder/pcap1.png)
 
 The question’s title, **"Port 80"**, felt like a hint, so I applied a filter in Wireshark for **``tcp.port == 80``**. This revealed a large number of packets. At first glance, these seemed too organized to contain the flag directly, so I suspected there might be an outlier IP hidden among them.
 
@@ -44,6 +44,8 @@ Taking a closer look at this remaining packet ,I discovered the hidden flag embe
 Then by clicking on the Frame option, the flag can be viewed neatly, and with that, this simple networking challenge is completed.
 
 ![Image5](../Image_Folder/pcap5.jpg)
+
+If you are not familiar with **Wireshark**, you can learn about it from here easily : [Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html)
 
 ---
 
