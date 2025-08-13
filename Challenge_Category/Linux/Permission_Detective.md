@@ -22,7 +22,7 @@ I downloaded the **flag.tar** file and opened a terminal. Out of curiosity, I at
     cat flag.tar
     
 
-![Image](../External_Folder/permission_detective.jpg)
+![Image](../Image_Folder/permission_detective.jpg)
 
 
 
