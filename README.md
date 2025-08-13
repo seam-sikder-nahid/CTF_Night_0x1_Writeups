@@ -53,3 +53,8 @@ CTF_Night_0x1!
 │   └── Web/
 │       └── Developers_Mistake.md
 └── README.md
+```
+
+---
+
+© 2025 Md. Seam Sikder Nahid. All rights reserved.
