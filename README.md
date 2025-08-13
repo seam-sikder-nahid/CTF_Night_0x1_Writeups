@@ -1,4 +1,4 @@
-# CTF Night 0x1 — Writeups
+# CTF Night 0x1! — Writeups
 
 This repository contains detailed, step-by-step writeups for challenges from **CTF Night 0x1!**, an **intra-university Capture The Flag competition** organized by the **Cyber Security Club, Uttara University**. This event was designed to test and enhance participants’ skills across various domains of information security, encouraging students to apply theoretical knowledge in practical, real-world-inspired scenarios.
 
@@ -18,36 +18,38 @@ The primary goal of this repository is to serve as a **learning resource** for b
 
 ## Repository Structure
 ```CTF-Night-0x1-Writeups
-├── Challenge_Category
-|   ├── Basics_Questions
-|   │   ├── Linux_0x1.md
-|   │   ├── Linux_0x2.md
-|   │   ├── Linux_0x3.md
-|   │   ├── Linux_0x4.md
-|   │   └── Linux_0x5.md
-|   ├── OSINT
-|   │   ├── Uncover_the_Spot.md
-|   │   └── Jokers_Digital_Shadow.md
-|   ├── Forensics
-|   │   └── True_Blue_Trace.md
-|   ├── Cryptography
-|   │   ├── Rails_of_Secrets.md
-|   │   ├── Batman_Protocol.md
-|   │   ├── Numbers_Game.md
-|   │   ├── Lost_in_Rotation.md
-|   │   ├── Duckpond_Cipher.md
-|   │   ├── Pixel_Perfect_Lie.md
-|   │   ├── World_Tour.md
-|   │   ├── The_Wizards_Shift.md
-|   │   ├── Cipher_Cascade.md
-|   ├── General_Skill
-|   │   └── Secret_Game.md
-|   ├── Linux
-|   │   ├── Permission_Detective.md
-|   │   └── Hide_and_Seek.md
-|   ├── Web
-|   │   └── Developers_Mistake.md
-|   └── Network
-|       └── Port_80.md
-|
+CTF-Writeups/
+├── Challenge_Category/
+│   ├── Basics_Questions/
+│   │   ├── Linux_0x1.md
+│   │   ├── Linux_0x2.md
+│   │   ├── Linux_0x3.md
+│   │   ├── Linux_0x4.md
+│   │   └── Linux_0x5.md
+│   ├── Cryptography/
+│   │   ├── Batman_Protocol.md
+│   │   ├── Cipher_Cascade.md
+│   │   ├── Duckpond_Cipher.md
+│   │   ├── Lost_in_Rotation.md
+│   │   ├── Numbers_Game.md
+│   │   ├── Pixel_Perfect_Lie.md
+│   │   ├── Rails_of_Secrets.md
+│   │   ├── The_Wizards_Shift.md
+│   │   └── World_Tour.md
+│   ├── Forensics/
+│   │   └── True_Blue_Trace.md
+│   ├── General_Skill/
+│   │   └── Secret_Game.md
+│   ├── Linux/
+│   │   ├── Hide_and_Seek.md
+│   │   └── Permission_Detective.md
+│   ├── Network/
+│   │   └── Port_80.md
+│   ├── OSINT/
+│   │   ├── Joker’s_Digital_Shadow.md
+│   │   └── Uncover_The_Spot.md
+│   └── Web/
+│       └── Developers_Mistake.md
+├── External_Folder/
+├── Image_Folder/
 └── README.md
