@@ -18,7 +18,7 @@ The primary goal of this repository is to serve as a **learning resource** for b
 
 ## Repository Structure
 ```CTF-Night-0x1-Writeups
-CTF-Writeups/
+CTF_Night_0x1!
 ├── Challenge_Category/
 │   ├── Basics_Questions/
 │   │   ├── Linux_0x1.md
@@ -36,10 +36,12 @@ CTF-Writeups/
 │   │   ├── Rails_of_Secrets.md
 │   │   ├── The_Wizards_Shift.md
 │   │   └── World_Tour.md
+│   ├── External_Folder/
 │   ├── Forensics/
 │   │   └── True_Blue_Trace.md
 │   ├── General_Skill/
 │   │   └── Secret_Game.md
+│   ├── Image_Folder/
 │   ├── Linux/
 │   │   ├── Hide_and_Seek.md
 │   │   └── Permission_Detective.md
@@ -50,6 +52,4 @@ CTF-Writeups/
 │   │   └── Uncover_The_Spot.md
 │   └── Web/
 │       └── Developers_Mistake.md
-├── External_Folder/
-├── Image_Folder/
 └── README.md
