@@ -27,7 +27,7 @@ A **network_traffic.pcap** file was provided, which I downloaded and opened in *
 
 The question’s title, **"Port 80"**, felt like a hint, so I applied a filter in Wireshark for **``tcp.port == 80``**. This revealed a large number of packets. At first glance, these seemed too organized to contain the flag directly, so I suspected there might be an outlier IP hidden among them.
 
-![Image2](../Image_Foler/pcap2.jpg)
+![Image2](../Image_Folder/pcap2.jpg)
 
 I decided to filter out common, non-suspicious IP addresses — specifically **8.8.8.8 (Google DNS)** and **10.0.0.1 (internal gateway)**. 
 I use this line on filter on box ``tcp.port == 80 && ip.addr !=8.8.8.8 && ip.addr !=10.0.0.1`` Where ,that means display all TCP port 80 (HTTP) traffic except packets to or from IPs 8.8.8.8 and 10.0.0.1.
