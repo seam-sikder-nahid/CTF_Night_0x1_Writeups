@@ -39,10 +39,10 @@ Here’s what each part did:
     awk '$1 == 5 {print $2}' filtered only those IPs that appeared exactly 5 times.
 
 
-Victory! The IP was 172.16.0.25. I smiled, thinking I had cracked it — but submitting it as a flag failed.The challenge expected a CXXX{XXX.XXX.XXX.XXX} format.  I tried CLOG{172.16.0.25} and CVAR{172.16.0.25}, but both failed.
+Victory! The IP was 172.16.0.25. I smiled, thinking I had cracked it — but submitting it as a flag failed.The challenge expected a **CXXX{XXX.XXX.XXX.XXX}** format.  I tried **CLOG{172.16.0.25}** and **CVAR{172.16.0.25}**, but both failed.
 
 It became clear that the author had intentionally made this tricky. I realized I needed to manually inspect the log to find the flag, but the file had over a thousand lines — too much to search by eye.
-Then a thought hit me: the flag must have { and }. That was my clue. So I decided to search for lines with ``{`` in the log:
+Then a thought hit me: the flag must have ``{`` and ``}``. That was my clue. So I decided to search for lines with ``{`` in the log:
 
     grep "{" auth.log
 
